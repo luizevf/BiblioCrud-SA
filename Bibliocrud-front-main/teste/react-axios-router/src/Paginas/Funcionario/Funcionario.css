@@ -1,0 +1,27 @@
+
+.card {
+  border: 1px solid;
+  padding: 10px;
+  margin: 10px;
+  background-color: black;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.card2{
+  border: 1px solid;
+  padding: 10px;
+  margin: 10px;
+  background-color: #272626;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.text{
+    float: right;
+}
+.text2{
+   float: left;
+}
+.text3{
+  float: left;
+}
+.text4{
+  flood-opacity: 23px;
+}

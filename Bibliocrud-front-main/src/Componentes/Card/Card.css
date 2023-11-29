@@ -1,0 +1,16 @@
+ 
+  .cardTela {
+    width: 300px;
+    height: 200px;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card img {
+    width: 150px;
+    border-radius: 3px;
+    height: 200px;
+  }

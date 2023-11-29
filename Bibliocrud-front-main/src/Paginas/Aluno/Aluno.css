@@ -1,0 +1,42 @@
+.card {
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.card2{
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+    background-color: #272626;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.text {
+    text-decoration: none;
+    color: white;
+}
+
+.text2 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: white;
+ }
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    color: white;
+
+}
+
+li {
+    margin-bottom: 5px;
+    color: white;
+}
+
+li strong {
+    font-weight: bold;
+    color: white;
+}
