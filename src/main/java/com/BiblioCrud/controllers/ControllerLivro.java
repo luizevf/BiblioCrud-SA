@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.BiblioCrud.services.ServiceLivro;
 
 @RestController
-@RequestMapping("/livros")
+@RequestMapping("/livro")
 
 public class ControllerLivro {
 
